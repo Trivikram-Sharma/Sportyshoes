@@ -1,0 +1,6 @@
+2022-06-19 00:00:23,722 INFO com.sportyshoes.repositories.OrderRepository [http-nio-8086-exec-7] Number of orders retrieved by date in Ascending order:%d
+2022-06-19 00:02:37,673 INFO com.sportyshoes.repositories.OrderRepository [http-nio-8086-exec-1] Number of orders retrieved by date in Descending order:%d
+2022-06-19 00:05:44,652 INFO com.sportyshoes.repositories.OrderRepository [http-nio-8086-exec-5] Number of orders retrieved by orderId in Descending order:%d
+2022-06-19 00:07:27,934 INFO com.sportyshoes.repositories.OrderRepository [http-nio-8086-exec-9] Number of orders retrieved by OrderId in Ascending order:%d
+2022-06-19 00:10:31,002 INFO com.sportyshoes.repositories.OrderRepository [http-nio-8086-exec-2] Orders of product:Product [productId=2, productName=Nike shoes medium, MSRP=150, quantityInStock=18, productVendor=Nike] retrieved:%d
+2022-06-19 00:33:10,934 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
